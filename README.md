@@ -7,7 +7,7 @@ System Overview
 employees, and customers.
 * Store Object: Responsible for representing all of the object classes in the store (employee,
 customer and item/product) in a universal manner
-● Employee and Customer Management: Employees can log in and out, while customers
+* Employee and Customer Management: Employees can log in and out, while customers
 can make purchases based on their budget.
-● Product Inventory: Items in the store, such as laptops, tablets, and smartphones, can be
+* Product Inventory: Items in the store, such as laptops, tablets, and smartphones, can be
 added, viewed, and purchased by customers
